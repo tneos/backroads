@@ -12,7 +12,6 @@ const Tours = () => {
           <Tour key={tour.id} {...tour} />
         ))}
       </div>
-      <Tour data={tours} />
     </section>
   );
 };
