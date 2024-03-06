@@ -19,9 +19,9 @@ const About = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur quisquam harum nam
             cumque temporibus explicabo dolorum sapiente odio unde dolor?
           </p>
-          <button href="#" className="btn">
+          <a href="#about" className="btn">
             read more
-          </button>
+          </a>
         </article>
       </div>
     </section>
